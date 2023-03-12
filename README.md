@@ -1,5 +1,5 @@
-### Hey, Hi 
-I'm Deepika Chinnasamy 👋
+### Hey, Hi 👋
+### I'm Deepika Chinnasamy 
 
 <!--
 **DeepikaChinnasamy/DeepikaChinnasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
