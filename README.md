@@ -1,6 +1,9 @@
 ### Hey, Hi 👋
 ### I'm Deepika Chinnasamy 
 
+- 🌱 I’m currently learning Data Science
+-  😄 Pronouns: She/Her
+
 <!--
 **DeepikaChinnasamy/DeepikaChinnasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
